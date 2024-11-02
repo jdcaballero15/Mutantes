@@ -1,6 +1,6 @@
 **Parcial Back End Desarrollo de Software**
 
-#Instrucciones y caracteristicas:
+## Instrucciones y caracteristicas:
 Esta api a traves de peticiones post va a permitir detectar a traves de una secuencia de ADN si es un humano o un mutante.
 
 ### Caractristicas:
