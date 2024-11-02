@@ -34,6 +34,7 @@ El resultado de la peticion sera "200 OK" y se mostrata el mensaje "Mutant detec
 
 
 ## Nivel 3 - Servicio "/stats"
+(se incluye pdf con la documentacion en el repositorio)
 - Ruta : "/stats"
 - Metodo : "GET"
 - Con esta peticion vamos a poder obtener estadisticas generales a cerca de cuantas peticiones hemos enviado con ADN mutante y cuatas con ADN no mutante.
